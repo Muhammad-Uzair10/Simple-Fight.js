@@ -1,4 +1,4 @@
-# Stickman Fighting Game
+# Simple Stickman Fighting Game
 
 A simple two-player stickman fighting game implemented using JavaScript and HTML5 Canvas.
 
